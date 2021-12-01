@@ -1,0 +1,14 @@
+.App {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: aquamarine;
+  height: 100vh;
+}
+
+@media screen and (min-width: 767px) {
+  .App {
+    padding: 50px;
+  }
+}
