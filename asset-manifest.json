@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/test-medesk/static/css/main.031c27ba.chunk.css",
+    "main.js": "/test-medesk/static/js/main.83db3be6.chunk.js",
+    "main.js.map": "/test-medesk/static/js/main.83db3be6.chunk.js.map",
+    "runtime-main.js": "/test-medesk/static/js/runtime-main.9abcf6cf.js",
+    "runtime-main.js.map": "/test-medesk/static/js/runtime-main.9abcf6cf.js.map",
+    "static/js/2.1a206b65.chunk.js": "/test-medesk/static/js/2.1a206b65.chunk.js",
+    "static/js/2.1a206b65.chunk.js.map": "/test-medesk/static/js/2.1a206b65.chunk.js.map",
+    "static/js/3.cb2630cf.chunk.js": "/test-medesk/static/js/3.cb2630cf.chunk.js",
+    "static/js/3.cb2630cf.chunk.js.map": "/test-medesk/static/js/3.cb2630cf.chunk.js.map",
+    "index.html": "/test-medesk/index.html",
+    "static/css/main.031c27ba.chunk.css.map": "/test-medesk/static/css/main.031c27ba.chunk.css.map",
+    "static/js/2.1a206b65.chunk.js.LICENSE.txt": "/test-medesk/static/js/2.1a206b65.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9abcf6cf.js",
+    "static/js/2.1a206b65.chunk.js",
+    "static/css/main.031c27ba.chunk.css",
+    "static/js/main.83db3be6.chunk.js"
+  ]
+}
